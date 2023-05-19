@@ -1,4 +1,4 @@
-Login Register
+Tutorial source code: Login Register
 =============
 
 These files acompany the tutorial: [Login and Registration system with PHP](https://dcblog.dev/login-and-registration-system-with-php)
